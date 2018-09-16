@@ -1,4 +1,4 @@
-# Apress Source Code
+﻿# Apress Source Code
 
 This repository accompanies [*Design Patterns in C#*](https://www.apress.com/9781484236390) by Vaskaran Sarcar (Apress, 2018).
 
@@ -14,3 +14,8 @@ Release v1.0 corresponds to the code in the published book, without corrections 
 ## Contributions
 
 See the file Contributing.md for more information on how you can contribute to this repository.
+
+## Changes
+### 2018-09-16
+* Add All.sln
+  * Add MVCWinFormDemo, NullObjectPattern, SimpleFactoryPattern into solution
